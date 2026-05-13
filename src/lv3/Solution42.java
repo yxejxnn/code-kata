@@ -1,4 +1,4 @@
-package lv2;
+package lv3;
 
 public class Solution42 {
     public int solution(int[] number) {

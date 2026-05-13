@@ -1,4 +1,4 @@
-package lv2;
+package lv3;
 
 public class Solution41 {
     public String solution(String s) {
